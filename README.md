@@ -6,11 +6,10 @@ TeacherIA é um chatbot que utiliza tecnologias avançadas de IA da Google para 
 
 Para isso, o projeto foi desenvolvido com Python e StreamLit.
 
-<div>
-  <img src="https://github.com/jpedroreiss/TeacherIA-gemini/assets/78040348/84ec86e5-1e12-4779-a810-f84ef85fb389" alt="streamlit-logo" width="100">
-  <img src="https://github.com/jpedroreiss/TeacherIA-gemini/assets/78040348/1c1eb806-c42c-4afe-b131-36a7e5784ee1" alt="streamlit-logo" width="100">
-  <img src="https://github.com/jpedroreiss/TeacherIA-gemini/assets/78040348/fa2b8375-9fda-4b49-aa73-70bb55004299" alt="Gemini-Logo" width="100">
-</div>
+![](https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=for-the-badge&logo=Google-Gemini&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
+
 
 ## ⚙️ Demonstração de uso
 > [!TIP]
